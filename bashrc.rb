@@ -1,4 +1,4 @@
-class bashrc < Formula
+class Bashrc < Formula
   desc "NMAAHC's bashrc file for use across computers"
   homepage "https://github.com/NMAAHC/bashrc"
   url "https://github.com/NMAAHC/bashrc/archive/v1.0.tar.gz"
