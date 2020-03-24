@@ -22,5 +22,8 @@ class Bashrc < Formula
 
 def install
     bin.install "bashrc"
+    bin.install "bashrc_alias"
+    bin.install "bashrc_colors"
+    bin.install "bashrc_functions"
    end
 end
